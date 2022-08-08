@@ -1,0 +1,26 @@
+*{
+
+}
+
+body{
+   background: #a2ea4c;
+   background-image: -webkit-linear-gradient(45deg, #0000FF 50%, #6B6BFF 50%);
+   background-image: linear-gradient(45deg, #0000FF 50%, #6B6BFF 50%);
+   height: 100vh;
+}
+
+
+.info{
+  display: flex
+  width: 500px;
+  margin: 50px;
+  outline: solid 1px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+
+.intro{
+
+}
