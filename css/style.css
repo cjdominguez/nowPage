@@ -1,12 +1,20 @@
 *{
-
+  margin: 0;
+  padding: 0;
 }
 
 body{
    background: #a2ea4c;
-   background-image: -webkit-linear-gradient(45deg, #0000FF 50%, #6B6BFF 50%);
-   background-image: linear-gradient(45deg, #0000FF 50%, #6B6BFF 50%);
+   background-image: -webkit-linear-gradient(45deg, #04C4D9 50%, #9C53EB 50%);
+   background-image: linear-gradient(45deg, #04C4D9 50%, #9C53EB 50%);
    height: 100vh;
+   color: #160B40;
+}
+
+.wrapper{
+  margin: 0 auto;
+  width: 1000px;
+
 }
 
 
@@ -23,4 +31,8 @@ body{
 
 .intro{
 
+}
+
+.socials{
+  display: flex;
 }
